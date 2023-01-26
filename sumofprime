@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+bool prime(int n)
+{
+	for(int i=2;i<=sqrt(n);i++)
+	{
+	 
+	}
+}
